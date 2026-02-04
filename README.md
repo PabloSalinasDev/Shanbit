@@ -8,10 +8,6 @@
 
 PassGenPro is a professional tool built with **Python** and **Flet**, designed under the "Total Privacy" principle. Unlike web-based generators, it operates 100% offline and manages sensitive data exclusively in volatile memory (RAM).
 
-<p align="center">
-  <img src="assets/diceware.png" width="600" alt="PassGenPro Screenshot">
-</p>
-
 [![Get it from Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9NRKDHPM1V1F)
 
 ---
@@ -36,16 +32,32 @@ $$E = L \times \log_2(R)$$
 * **Real-time visualization** with chromatic feedback based on security bits.
 * **Classification** ranging from "Very Weak" (< 40 bits) to "Unbreakable" (> 100 bits).
 
+<p align="center">
+  <img src="assets/standard.png" width="600" alt="PassGenPro Screenshot">
+</p>
+
 ### 2. Memory & Clipboard Security
 To prevent forensic analysis of sensitive data:
 * **Volatile History:** The password history resides strictly in RAM and is wiped upon closing the process.
 * **Clipboard Auto-Clear:** Implementation of a background thread (`threading.Timer`) that automatically clears the system clipboard after 30 seconds of inactivity.
 
+<p align="center">
+  <img src="assets/history.png" width="600" alt="PassGenPro Screenshot">
+</p>
+
 ### 3. Secure QR Transfer
 Implementation of logic to transfer keys to mobile devices without relying on networks or cloud services. The QR code is generated as an **in-memory Base64 string**, avoiding the creation of temporary files on the hard drive that could be recovered.
 
+<p align="center">
+  <img src="assets/QR.png" width="600" alt="PassGenPro Screenshot">
+</p>
+
 ### 4. Multi-language Diceware Generation
 Support for memorable passphrases using optimized word lists in **Spanish** and **English**, selected via `secrets.choice` to ensure maximum statistical randomness.
+
+<p align="center">
+  <img src="assets/diceware.png" width="600" alt="PassGenPro Screenshot">
+</p>
 
 ---
 
