@@ -2,11 +2,11 @@
   <img src="assets/logo_full.png" width="128" alt="PassGenPro Logo">
 </p>
 
-# PassGenPro 🛡️
+# Shanbit 🛡️
 
 **Native desktop application for generating cryptographic keys and Diceware passphrases.**
 
-PassGenPro is a professional tool built with **Python** and **Flet**, designed under the "Total Privacy" principle. Unlike web-based generators, it operates 100% offline and manages sensitive data exclusively in volatile memory (RAM).
+Shanbit is a professional tool built with **Python** and **Flet**, designed under the "Total Privacy" principle. Unlike web-based generators, it operates 100% offline and manages sensitive data exclusively in volatile memory (RAM).
 
 [![Get it from Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9NRKDHPM1V1F)
 
@@ -76,4 +76,5 @@ This repository contains the documentation and technical specifications for the 
 If you would like to discuss specific details regarding the implementation of the security logic or the software architecture, please feel free to contact me.
 
 ---
+
 © 2026 **PybloSoft** | [Technical Support](mailto:support@pyblosoft.com)

@@ -6,10 +6,10 @@
 		<MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data format that allows software authors to provide product descriptions and specifications to online sources in a standard way, using a standard XML schema that allows for data reuse and automated parsing.</MASTER_PAD_INFO>
 	</MASTER_PAD_VERSION_INFO>
 	<Program_Info>
-		<Program_Name>PassGenPro</Program_Name>
-		<Program_Version>1.0.2</Program_Version>
+		<Program_Name>Shanbit</Program_Name>
+		<Program_Version>1.0.3</Program_Version>
 		<Program_Release_Month>02</Program_Release_Month>
-		<Program_Release_Day>03</Program_Release_Day>
+		<Program_Release_Day>06</Program_Release_Day>
 		<Program_Release_Year>2026</Program_Release_Year>
 		<Program_Cost_Dollars>14.99</Program_Cost_Dollars>
 		<Program_Cost_Other_Code>USD</Program_Cost_Other_Code>
@@ -36,16 +36,16 @@
 		<English>
 			<Keywords>password generator, diceware, csprng, entropy, offline, security, privacy, qr transfer, encryption, pyblosoft</Keywords>
 			<Char_Desc_45>Offline CSPRNG and Diceware password generator</Char_Desc_45>
-			<Char_Desc_80>PassGenPro: Secure offline CSPRNG/Diceware generator with real-time entropy info.</Char_Desc_80>
-			<Char_Desc_250>PassGenPro is a secure, 100% offline app featuring CSPRNG-based generation and Diceware methods. It includes real-time mathematical entropy control (security bits) and QR code transfer to avoid clipboard sniffing. Private and local by design.</Char_Desc_250>
-			<Char_Desc_450>Protect your digital life with robust passwords generated via CSPRNG and Diceware methods. PassGenPro works 100% offline and features real-time entropy control to visualize mathematical strength (security bits). It includes a volatile session history (RAM only) and secure QR transfer to mobile devices, preventing clipboard sniffing. Ideal for developers and privacy-conscious users seeking military-grade security without cloud dependency.</Char_Desc_450>
-			<Char_Desc_2000>PassGenPro: Military-Grade Security, 100% Offline.
+			<Char_Desc_80>Shanbit: Secure offline CSPRNG/Diceware generator with real-time  Shannon entropy info.</Char_Desc_80>
+			<Char_Desc_250>Shanbit is a secure, 100% offline app featuring CSPRNG-based generation and Diceware methods. It includes real-time Shannon mathematical entropy control (security bits) and QR code transfer to avoid clipboard sniffing. Private and local by design.</Char_Desc_250>
+			<Char_Desc_450>Protect your digital life with robust passwords generated via CSPRNG and Diceware methods. Shanbit works 100% offline and features real-time Shannon entropy control to visualize mathematical strength (security bits). It includes a volatile session history (RAM only) and secure QR transfer to mobile devices, preventing clipboard sniffing. Ideal for developers and privacy-conscious users seeking security without cloud dependency.</Char_Desc_450>
+			<Char_Desc_2000>Shanbit: Offline password and diceware generator with measured Shannon entropy.
 
-Protect your digital life with mathematically robust passwords generated instantly on your own device. PassGenPro is the ultimate tool for developers, sysadmins, and privacy-conscious users who need to generate secure credentials without relying on the cloud.
+Protect your digital life with mathematically robust passwords generated instantly on your own device. Shanbit is the ultimate tool for developers, sysadmins, and privacy-conscious users who need to generate secure credentials without relying on the cloud.
 
 Main Features:
 - Standard Cryptographic Generation: Create keys using combinations of uppercase, lowercase, numbers, and symbols. Powered by Cryptographically Secure Pseudo-Random Number Generators (CSPRNG).
-- Real-time Entropy Control: Visualize the actual mathematical strength of your keys (security bits) instantly as you generate them. Aim for +80 bits for maximum security.
+- Real-time Shannon Entropy Control: Visualize the actual mathematical strength of your keys (security bits) instantly as you generate them. Aim for +80 bits for maximum security.
 - Integrated Diceware Standard: Generate memorable yet unhackable passphrases based on randomized word lists.
 - Extreme Local Privacy: Volatile history that stays only in RAM and is destroyed upon closing the session. Your keys never touch the hard drive or the internet.
 - Encrypted QR Transfer: Move your keys to your mobile device instantly without using Windows clipboard, avoiding "sniffing" by other local software.
@@ -53,16 +53,16 @@ Main Features:
 - Modern and Fast Interface: Designed for productivity with dark mode and one-click copy.
 - Zero Tracking: No ads, no telemetry, and 100% local operation.
 
-Ideal for creating database keys, Wi-Fi access, bank accounts, and API tokens. Take control of your cybersecurity today with PassGenPro. Available as a one-time purchase on the Microsoft Store.</Char_Desc_2000>
+Ideal for creating database keys, Wi-Fi access, bank accounts, and API tokens. Take control of your cybersecurity today with Shanbit. Available as a one-time purchase on the Microsoft Store.</Char_Desc_2000>
 		</English>
 	</Program_Descriptions>
 	<Web_Info>
 		<Application_URLs>
 			<Application_Info_URL>https://apps.microsoft.com/detail/9NRKDHPM1V1F</Application_Info_URL>
 			<Application_Order_URL>https://apps.microsoft.com/detail/9NRKDHPM1V1F</Application_Order_URL>
-			<Application_Screenshot_URL>https://i.postimg.cc/BbLdHGv9/diceware.png</Application_Screenshot_URL>
-			<Application_Icon_URL>https://i.postimg.cc/V5QV8Ktc/icon-32.png</Application_Icon_URL>
-			<Application_XML_File_URL>https://raw.githubusercontent.com/PabloSalinasDev/PassGenPro/refs/heads/main/pad.xml</Application_XML_File_URL>
+			<Application_Screenshot_URL>https://i.postimg.cc/wB4ysdG6/Diceware.png</Application_Screenshot_URL>
+			<Application_Icon_URL>https://i.postimg.cc/mkCtq12j/icon_32.png</Application_Icon_URL>
+			<Application_XML_File_URL>https://raw.githubusercontent.com/PabloSalinasDev/Shanbit/refs/heads/main/pad.xml</Application_XML_File_URL>
 		</Application_URLs>
 		<Download_URLs>
 			<Primary_Download_URL>https://apps.microsoft.com/detail/9NRKDHPM1V1F</Primary_Download_URL>
