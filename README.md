@@ -8,7 +8,7 @@
 
 Shanbit is a professional tool built with **Python** and **Flet**, designed under the "Total Privacy" principle. Unlike web-based generators, it operates 100% offline and manages sensitive data exclusively in volatile memory (RAM).
 
-[![Get it from Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9NRKDHPM1V1F)
+[![Get it from Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9NR12VDV9NM5)
 
 ---
 
