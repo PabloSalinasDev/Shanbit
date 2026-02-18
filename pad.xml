@@ -7,9 +7,9 @@
 	</MASTER_PAD_VERSION_INFO>
 	<Program_Info>
 		<Program_Name>Shanbit</Program_Name>
-		<Program_Version>1.0.4</Program_Version>
+		<Program_Version>1.0.6</Program_Version>
 		<Program_Release_Month>02</Program_Release_Month>
-		<Program_Release_Day>12</Program_Release_Day>
+		<Program_Release_Day>18</Program_Release_Day>
 		<Program_Release_Year>2026</Program_Release_Year>
 		<Program_Cost_Dollars>14.99</Program_Cost_Dollars>
 		<Program_Cost_Other_Code>USD</Program_Cost_Other_Code>
@@ -19,7 +19,7 @@
 		<Program_Install_Support>Install and Uninstall</Program_Install_Support>
 		<Program_OS_Support>Win10 x64,Win11 x64,WinServer 2016,WinServer 2019,WinServer 2022,WinServer 2025</Program_OS_Support>
 		<Program_Language>English,Spanish</Program_Language>
-		<Program_Change_Info>v1.0.4: Added a new premium asynchronous Splash Screen. Refined UI terminology (Standard and Diceware labels). Corrected minor interface typos and optimized internal performance for entropy calculations.</Program_Change_Info>
+		<Program_Change_Info>v1.0.6: Fixed the logo display issue within the installer.General user interface improvements for a smoother and more modern experience.Enhanced multilingual support.</Program_Change_Info>
 		<Program_Specific_Category>Security</Program_Specific_Category>
 		<Program_Category_Class>Security &amp; Privacy::Password Managers</Program_Category_Class>
 		<Program_System_Requirements>Microsoft Store access, Windows 10 or 11</Program_System_Requirements>
