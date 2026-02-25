@@ -2,7 +2,7 @@
   <img src="assets/logo_full.png" width="128" alt="Shanbit Logo">
 </p>
 
-# Shanbit 🛡️
+# Shanbit 🛡️ 
 
 **Native desktop application for generating cryptographic keys and Diceware passphrases.**
 
